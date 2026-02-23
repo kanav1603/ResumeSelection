@@ -1,0 +1,1 @@
+ResumeSelection is an automated resume screening system that analyzes resumes and ranks candidates based on job requirements. It extracts key skills and experience to help recruiters quickly shortlist suitable candidates.
